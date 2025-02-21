@@ -7,8 +7,7 @@
 ## 🚀 Features  
 
 ### 🟢 **Free Tier (Freemium)**  
-✅ Write Short Stories (single entry, like a movie)  
-✅ Basic AI Suggestions (character ideas, plot ideas)  
+✅ Write Short Stories (single entry, like a movie)   
 ✅ Publish Stories (others can read, like & comment)  
 ✅ Read and Comment on Other Stories  
 ✅ Private Drafts (write but keep unpublished until ready)  
@@ -16,7 +15,7 @@
 
 ### 🔵 **Premium Tier (Subscription Required)**  
 ✅ Write Anime Story Series (Episode 1, Episode 2, etc.)  
-✅ Advanced AI Suggestions (detailed character development, plot structure, dialogue help)  
+✅ Basic AI Suggestions (character ideas, plot ideas) 
 ✅ Private Drafts (write but keep unpublished until ready)  
 ✅ Featured Stories Section (premium users get more visibility)  
 ✅ No Ads  
